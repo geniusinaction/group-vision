@@ -135,7 +135,9 @@ International Glaciological Society Symposia - typically 2-3 per year - topics v
 AGU Ocean Sciences - even years (early spring) - AGU meeting focused on ocean topics, typically some ice/ocean sessions, still big - 5k+ attendees
 SIAM/APS Meetings - applied math and physics meetings, typically large, but a good venue to talk about more technical/mathematical aspects of your work to people outside of glaciology
 
-Thanks, and please enjoy your time in the ICG!
+
+# Acknowledgements
+This document was copied from a Google Document linked from Alex Robel's webiste (link[https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit])
 
 These Guidelines borrow heavily and are modified from the Basin Research Group Code of Conduct, assembled by Chris Jackson (basinsresearchgroup.com). They have also been edited and added to by Alex Robel, Samantha Buzzard, Paige Copenhaver, Ziad Rashed, and Hudson Moss.
 	
