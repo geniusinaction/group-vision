@@ -8,10 +8,20 @@ Please note that this is a documentation of our vision for group culture and goa
 ## Cultivating a safe group culture
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form, and we ask all members of the community to conform to the following Code of Conduct:
 
-1. Be kind to others and do not insult or put down other group members.
-2. All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds. Sexual language and imagery is not appropriate at any time.
-3. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+Things to do:
+
+1. Be kind to others at all times, 
+2. Behave professionally, and
+3. Act with scientific integrity.
+
+Examples of things not to do:
+
+- Harassment and sexist, racist, and/or exclusionary jokes are never appropriate.
+- Sexual language and imagery is not appropriate at any time.
+- Do not insult or put down other group members
+
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+
 Participants asked to stop any harassing behavior are expected to comply immediately.
 Contribute to discussions in meetings with a constructive, positive approach
 Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others. Talking over others is disruptive and leads to unproductive meetings, but also it makes the person who is being talked over feel like their ideas are invalid or not worth being considered. To facilitate discussion and ensure that everyone is heard:
