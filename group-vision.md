@@ -5,11 +5,12 @@ We value the participation of every member of our community and want to ensure e
 
 Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
 
-Our research group follows a simple model for interactions among the group members and with others:
+Our research group follows a simple model for interactions among the group members and with others.  We expect all group members to,
 
-1. Be kind to others at all times, 
-2. behave professionally, and
-3. act with scientific integrity.
+1. Act kindly and professionally, and
+2. do good work.
+
+This document explains what these two points mean.
 
 ## Be kind
 
