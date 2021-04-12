@@ -55,12 +55,12 @@ As outlined in the rest of this document, it is the goal of the Research Group i
 ## Mental Health
 There is increasing evidence that certain attributes of PhD research may challenge your mental health. Specific factors driving this include:
 
-Low pay and quality-of-life issues, particularly as a function of living in Atlanta
-Feelings of isolation in your research; e.g. everyone has their own topic and it can often feel as if you are working on your own
-Uncertainty in your research, although it should be noted that, in research of all kinds, it is not just the outcomes that are uncertain, but the questions themselves! 
-Uncertainty in your post-PhD career
-So-called “negative results”; i.e. at some point in your research it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show
-Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
+- Low pay and quality-of-life issues, 
+- Feelings of isolation in your research; e.g. everyone has their own topic and it can often feel as if you are working on your own
+- Uncertainty in your research, although it should be noted that, in research of all kinds, it is not just the outcomes that are uncertain, but the questions themselves! 
+- Uncertainty in your post-PhD career
+- So-called “negative results”; i.e. at some point in your research it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show
+- Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
 
 All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
 
