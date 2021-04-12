@@ -36,7 +36,7 @@ The PI will discuss these guidelines with group members who violate these rules,
 
 Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of the Title IX office (https://www.washington.edu/titleix/).
 
-## Commitment to Combat Racism and Discrimination
+### Commitment to Combat Racism and Discrimination
 
 Our group does not exist in a vacuum, but is within and affected by the structures, rules and customs of broader systems, including academia, our scientific community, and our society. The unfortunate reality is that these systems have been and continue to be discriminatory, racist and sexist institutions, which perpetuate harmful actions towards black, indigenous, and people of color, in addition to women and LGBTQ+ people. It is because of this discrimination that these groups have been, and continue to be underrepresented in the research community.
 
@@ -53,7 +53,7 @@ As outlined in the rest of this document, it is the goal of the Research Group i
 - Incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. Discuss further ways in which we can add to the above actions in our group efforts.
 - Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards (specific goals are bolded in the above action items), and outlining steps to make changes in the coming year. 
 
-## Mental Health
+### Mental health, or, being kind to oneself
 There is increasing evidence that certain attributes of PhD research may challenge your mental health. Specific factors driving this include:
 
 - Low pay and quality-of-life issues, 
@@ -65,8 +65,7 @@ There is increasing evidence that certain attributes of PhD research may challen
 
 All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
 
-## Group Identity vs. Individual Contribution
-The purpose of having a named research group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
+# Do Good Work
 
 ## Outputs and open science
 Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
@@ -74,6 +73,9 @@ Authorship on any manuscript or presentation will be openly discussed in group m
 Your active research product (code, documents, etc.) should be backup up regularly using an off-site, ‘cloud’-based storage system. All University staff have access to a nearly-unlimited dropbox allocation.
 
 All code written as a part of publicly-funded research and used to produce results or make plots in a published paper will be made publically available using GitHub or other public code repository. If you feel that there is a good reason for keeping your code exclusive, this should be discussed with the PI.
+
+## Group Identity vs. Individual Contribution
+The purpose of having a named research group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
 
 ## Working hours
 I recognise that many of you have personal responsibilities and obligations in addition to your PhD studies. I appreciate that, at times, it can be difficult to balance those demands, and that a classic ‘9-to-5’ day may not be optimal. Because of this, the exact hours you choose to work is up to you. Being on campus between 11 AM and 4 PM most days may, however, help facilitate collaborative working and, we hope, lead to a more fulfilling research experience. Where possible, meetings and events will not be arranged outside these hours to allow participation by all group members.
@@ -94,22 +96,24 @@ Manuscript in prep figures/outlines
 Fellowship applications/proposals
 Essays/articles on being a good scientist, inclusion, creativity, science writing, etc.
 
-As part of your professional training, you will be expected to lead a group discussion on a topic of your choice at least once per term (though in practice you should present more frequently than this). The group meeting should be a forum for open discussion, not a venue for one-on-one discussions about very technical research details (that is what one-on-one meetings are for!). Alex will recommend tabling a discussion if it is derailing the group.
+As part of your professional training, you will be expected to lead a group discussion on a topic of your choice at least once per term (though in practice you should present more frequently than this). The group meeting should be a forum for open discussion, not a venue for one-on-one discussions about very technical research details (that is what one-on-one meetings are for!). The PI will recommend tabling a discussion if it is derailing the group.
 
-Individual meetings: These will occur on an ad-hoc basis as personal situations require. These will give you an opportunity to discuss your progress and any administrative issues that you need addressed. You are encouraged to come fully prepared for individual meetings with questions or issues that you would like help with, or ideas for further work; in this way, discussions can be focused such that all concerns are addressed. Ideally, in a one-on-one meeting, we should discuss: (i) what were your plans from last meeting; (ii) work undertaken; (iii) issues arising; and (iv) a forward plan until the next meeting. Such reports are an important way to self-monitor your progress, as well as keeping your supervisor(s) informed of both positive and negative developments. 
+## Individual meetings
 
-If you are having trouble meetings deadlines that we have previously agreed upon, please do not work yourself an unhealthy amount to attempt to meet those deadlines. Please talk to Alex about why you are having trouble meeting the deadline, and we will discuss how you can potentially work more efficiently or set more reasonable deadlines.
+These will occur on an ad-hoc basis as personal situations require. These will give you an opportunity to discuss your progress and any administrative issues that you need addressed. You are encouraged to come fully prepared for individual meetings with questions or issues that you would like help with, or ideas for further work; in this way, discussions can be focused such that all concerns are addressed. Ideally, in a one-on-one meeting, we should discuss: (i) what were your plans from last meeting; (ii) work undertaken; (iii) issues arising; and (iv) a forward plan until the next meeting. Such reports are an important way to self-monitor your progress, as well as keeping your supervisor(s) informed of both positive and negative developments. 
 
-The purpose of these meetings is not for you to only report on what went right. Often the most pressing issue is a roadblock in the research or a failure. This is not a bad thing! Alex is here to help you get through those roadblocks or find an alternate route to achieve your ultimate goal. Ideally, feedback should be a roughly proportional mix of recognizing successes and analyzing failures.
+If you are having trouble meetings deadlines that we have previously agreed upon, please do not work yourself an unhealthy amount to attempt to meet those deadlines. Please talk to the PI about why you are having trouble meeting the deadline, and we will discuss how you can potentially work more efficiently or set more reasonable deadlines.
 
-Please inform Alex of holidays or notable absences in advance. Permission for holiday is very rarely required, but please respect key deadlines within the calendar year and the fact we work in a research group. It is important to take holiday, respect weekends (or time in lieu) and establish a sustainable work-life balance. It is also important to respect the time and efforts of others, and the contribution of funders, and to note that effective working will improve the quality of your research. Where there are key time pressures, it is important to prioritise work. If you struggle with establishing a sustainable work life balance, please discuss this with Alex at an early stage.
+The purpose of these meetings is not for you to only report on what went right. Often the most pressing issue is a roadblock in the research or a failure. This is not a bad thing! The PI is here to help you get through those roadblocks or find an alternate route to achieve your ultimate goal. Ideally, feedback should be a roughly proportional mix of recognizing successes and analyzing failures.
 
-Other Group Activities
-Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at Alex’s house, but maybe elsewhere too), hikes, and other outings.
+Please inform the PI of holidays or notable absences in advance. Permission for holiday is very rarely required, but please respect key deadlines within the calendar year and the fact we work in a research group. It is important to take holiday, respect weekends (or time in lieu) and establish a sustainable work-life balance. It is also important to respect the time and efforts of others, and the contribution of funders, and to note that effective working will improve the quality of your research. Where there are key time pressures, it is important to prioritise work. If you struggle with establishing a sustainable work life balance, please discuss this with the PI at an early stage.
+
+## Other Group Activities
+Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at the PI's house, but maybe elsewhere too), hikes, and other outings.
 
 ## Individual Development Plans
 
-An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with Alex and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to Alex in a way that he can follow up on.
+An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that he can follow up on.
 
 
 ## Communication
