@@ -8,13 +8,13 @@ Please note that this is a documentation of our vision for group culture and goa
 ## Cultivating a safe group culture
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form, and we ask all members of the community to conform to the following Code of Conduct:
 
-Things to do:
+### Things to do:
 
 1. Be kind to others at all times, 
 2. Behave professionally, and
 3. Act with scientific integrity.
 
-Examples of things not to do:
+### Examples of things not to do:
 
 - Harassment and sexist, racist, and/or exclusionary jokes are never appropriate.
 - Sexual language and imagery is not appropriate at any time.
@@ -30,7 +30,9 @@ Please be sure to pause long enough between thoughts or explicitly invite others
 
 In addition to making group members feel safe and secure, diversity and inclusivity has numerous benefits to us all. Put simply, the greater the mix of people in our group, the greater the mix of skills, experiences, perspectives, and ideas we can collectively draw on. But the benefits of diversity and equality cannot be fully achieved without creating an inclusive environment.
 
-Alex will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the ICG, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with Georgia Tech policies, will commence. To report an issue, please contact Alex Robel; all communication will be treated as confidential. Please be advised that as a university employee, Alex is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable contacting Alex directly, please feel free to contact a member of the Georgia Tech Title IX office (http://titleix.gatech.edu/).
+Alex will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the ICG, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with University policies, will commence. To report an issue, please contact the PI; all communication will be treated as confidential. 
+
+Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of the Title IX office (https://www.washington.edu/titleix/).
 
 ## Commitment to Combat Racism and Discrimination
 
