@@ -18,13 +18,13 @@ Enjoyable, high-quality research can only be conducted when you feel safe, secur
 
 ### Examples of things not to do:
 
-- Harassment and sexist, racist, and/or exclusionary jokes are never appropriate.
+- Harassment and sexist, racist, and/or exclusionary jokes are never appropriate.  Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 - Sexual language and imagery is not appropriate at any time.
 - Do not insult or put down other group members
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
-
+### Violations of policies
 Participants asked to stop any harassing behavior are expected to comply immediately.
+
 Contribute to discussions in meetings with a constructive, positive approach
 Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others. Talking over others is disruptive and leads to unproductive meetings, but also it makes the person who is being talked over feel like their ideas are invalid or not worth being considered. To facilitate discussion and ensure that everyone is heard:
 Wait for others to pause, or finish their train of thought before you being speaking or gesticulating, etc.
