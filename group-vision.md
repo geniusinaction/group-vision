@@ -137,7 +137,7 @@ SIAM/APS Meetings - applied math and physics meetings, typically large, but a go
 
 
 # Acknowledgements
-This document was copied from a Google Document linked from Alex Robel's webiste (link)[https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit].  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
+This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
 
 > These Guidelines borrow heavily and are modified from the Basin Research Group Code of Conduct, assembled by Chris Jackson (basinsresearchgroup.com). 
 > They have also been edited and added to by Alex Robel, Samantha Buzzard, Paige Copenhaver, Ziad Rashed, and Hudson Moss.
