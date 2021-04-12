@@ -8,9 +8,9 @@ Please note that this is a documentation of our vision for group culture and goa
 ## Cultivating a safe group culture
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form, and we ask all members of the community to conform to the following Code of Conduct:
 
-All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds. Sexual language and imagery is not appropriate at any time.
-Be kind to others and do not insult or put down other group members.
-Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+1. Be kind to others and do not insult or put down other group members.
+2. All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds. Sexual language and imagery is not appropriate at any time.
+3. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 Participants asked to stop any harassing behavior are expected to comply immediately.
 Contribute to discussions in meetings with a constructive, positive approach
