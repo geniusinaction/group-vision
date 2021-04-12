@@ -1,11 +1,11 @@
-*Group Vision*
+# Group Vision
 
-Overview
+## Overview
 We value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the Ice & Climate Group (ICG) are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
 
 Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
 
-Cultivating a safe group culture
+## Cultivating a safe group culture
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form, and we ask all members of the community to conform to the following Code of Conduct:
 
 All communication, be it online or in person, should be appropriate for a professional audience, and be considerate of people from different cultural backgrounds. Sexual language and imagery is not appropriate at any time.
@@ -22,7 +22,7 @@ In addition to making group members feel safe and secure, diversity and inclusiv
 
 Alex will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the ICG, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with Georgia Tech policies, will commence. To report an issue, please contact Alex Robel; all communication will be treated as confidential. Please be advised that as a university employee, Alex is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable contacting Alex directly, please feel free to contact a member of the Georgia Tech Title IX office (http://titleix.gatech.edu/).
 
-Ice & Climate Group Commitments to Combat Racism and Discrimination
+## Ice & Climate Group Commitments to Combat Racism and Discrimination
 
 Our group does not exist in a vacuum, but is within and affected by the structures, rules and customs of broader systems, including academia, our scientific community, and our society. The unfortunate reality is that these systems have been and continue to be discriminatory, racist and sexist institutions, which perpetuate harmful actions towards black, indigenous, and people of color, in addition to women and LGBTQ+ people. It is because of this discrimination that these groups have been, and continue to be underrepresented in the glaciology community, and science at large.
 
@@ -39,7 +39,7 @@ Holding those in power (including Alex and those in our own institution) and eac
 Incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. Discuss further ways in which we can add to the above actions in our group efforts.
 Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards (specific goals are bolded in the above action items), and outlining steps to make changes in the coming year. 
 
-Mental Health
+## Mental Health
 There is increasing evidence that certain attributes of PhD research may challenge your mental health. Specific factors driving this include:
 
 Low pay and quality-of-life issues, particularly as a function of living in Atlanta
@@ -51,25 +51,25 @@ Burnout; i.e. feeling the need to work endless hours to make up for the above is
 
 All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
 
-Group Identity vs. Individual Contribution
+## Group Identity vs. Individual Contribution
 The purpose of having the “named” Ice & Climate Group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or Alex’s ideas. Your project is yours to make your own. You should not feel as though you are presenting Alex’s ideas or the group’s projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
 
-Outputs and open science
+## Outputs and open science
 Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, Alex Robel will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
 	
 Your active research product (code, documents, etc.) should be backup up regularly using an off-site, ‘cloud’-based storage system. All Georgia Tech staff have access to a nearly-unlimited dropbox allocation.
 
 All code written as a part of publicly-funded research and used to produce results or make plots in a published paper will be made publically available using GitHub or other public code repository. If you feel that there is a good reason for keeping your code exclusive, this should be discussed with Alex.
 
-Working hours
+## Working hours
 I recognise that many of you have personal responsibilities and obligations in addition to your PhD studies. I appreciate that, at times, it can be difficult to balance those demands, and that a classic ‘9-to-5’ day may not be optimal. Because of this, the exact hours you choose to work is up to you. Being on campus between 11 AM and 4 PM most days may, however, help facilitate collaborative working and, we hope, lead to a more fulfilling research experience. Where possible, meetings and events will not be arranged outside these hours to allow participation by all ICG members.
 
-Holidays
+## Holidays
 You are expected to take (at least) two weeks of time off per year, beyond normal institute holidays (e.g. federal holidays, fall/spring/winter breaks). I strongly encourage you take this time so you can relax, visit family and friends, and generally unwind from the rigours of PhD study. Although not a formal requirement, it is helpful to inform Alex in advance when you plan to take holidays or if you will not be present at Ice-T or other group meetings. 
 
 Work on weekends is sometimes OK and/or necessary (especially before deadlines), but will likely lead to a drag on your overall productivity if it is a regular occurence. If you feel that you are having difficulty maintaining a healthy work-life balance, please talk to Alex.
 
-Meetings
+## Meetings
 Group meetings: Ice-T is the weekly ice-related research seminar that includes all of Alex and Winnie’s groups, and often others from other groups in EAS. All Ice & Climate group members are expected to attend if they are not otherwise engaged in other research-related activities (e.g. at conference, attending training or a lecture, etc). The ICG meeting is an excellent forum for updating colleagues on project progress, developing research skills, and widening our collective understanding. Group meetings provide a forum for:
 Research updates
 New and interesting papers
@@ -93,7 +93,7 @@ Please inform Alex of holidays or notable absences in advance. Permission for ho
 Other Group Activities
 Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at Alex’s house, but maybe elsewhere too), hikes, and other outings.
 
-** Individual Development Plans**
+## Individual Development Plans
 
 An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with Alex and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to Alex in a way that he can follow up on.
 
@@ -114,7 +114,7 @@ Proceedings of the National Academy of Sciences
 
 Signing-up to ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science) are highly recommended; by doing this, you can be kept informed of newly published literature related to your studies.
 
-Conferences
+## Conferences
 Conferences and workshops are by far the best way to meet other researchers (important for developing collaborations in the long run), disseminate your research in a timely fashion and learn about what others are doing. For US-based researchers in glaciology, there are a few conferences, some regular and others less so that are valuable venues for making connections and presenting your work.
 AGU Fall Meeting - annual (mid-December) typically in SF - THE huge meeting for Earth scientists in the US, 20k+attendees, but always lots of good cryosphere content
 EGU General Assembly - annual (April/May) typically in Vienna - smaller European version of AGU (still 10k+ though), good way to meet European cryo community, which is larger than American community 
