@@ -1,4 +1,4 @@
-Ice & Climate Group (ICG) Vision
+*Group Vision*
 
 Overview
 We value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the Ice & Climate Group (ICG) are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
