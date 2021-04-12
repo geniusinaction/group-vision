@@ -128,12 +128,12 @@ Signing-up to ‘mail alerts’ from specific journals and more general publicat
 
 ## Conferences
 Conferences and workshops are by far the best way to meet other researchers (important for developing collaborations in the long run), disseminate your research in a timely fashion and learn about what others are doing. For US-based researchers in glaciology, there are a few conferences, some regular and others less so that are valuable venues for making connections and presenting your work.
-AGU Fall Meeting - annual (mid-December) typically in SF - THE huge meeting for Earth scientists in the US, 20k+attendees, but always lots of good cryosphere content
-EGU General Assembly - annual (April/May) typically in Vienna - smaller European version of AGU (still 10k+ though), good way to meet European cryo community, which is larger than American community 
-West Antarctic Ice Sheet Workshop - annual (Sep/Oct) - small workshop (<100 attendees), mostly US participants, great way for researchers starting out to meet big names in field and program managers from funding agencies
-International Glaciological Society Symposia - typically 2-3 per year - topics vary greatly, but always focused on ice topics, usually one symposium per year is more general (i.e. ice and climate change), usually anywhere from 50-400 attendees depending on topic
-AGU Ocean Sciences - even years (early spring) - AGU meeting focused on ocean topics, typically some ice/ocean sessions, still big - 5k+ attendees
-SIAM/APS Meetings - applied math and physics meetings, typically large, but a good venue to talk about more technical/mathematical aspects of your work to people outside of glaciology
+- AGU Fall Meeting - annual (mid-December) typically in SF - THE huge meeting for Earth scientists in the US, 20k+attendees, but always lots of good cryosphere content
+- EGU General Assembly - annual (April/May) typically in Vienna - smaller European version of AGU (still 10k+ though), good way to meet European cryo community, which is larger than American community 
+- West Antarctic Ice Sheet Workshop - annual (Sep/Oct) - small workshop (<100 attendees), mostly US participants, great way for researchers starting out to meet big names in field and program managers from funding agencies
+- International Glaciological Society Symposia - typically 2-3 per year - topics vary greatly, but always focused on ice topics, usually one symposium per year is more general (i.e. ice and climate change), usually anywhere from 50-400 attendees depending on topic
+- AGU Ocean Sciences - even years (early spring) - AGU meeting focused on ocean topics, typically some ice/ocean sessions, still big - 5k+ attendees
+- SIAM/APS Meetings - applied math and physics meetings, typically large, but a good venue to talk about more technical/mathematical aspects of your work to people outside of glaciology
 
 
 # Acknowledgements
