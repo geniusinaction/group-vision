@@ -7,8 +7,8 @@ Please note that this is a documentation of our vision for group culture and goa
 
 Our research group follows a simple model for interactions among the group members and with others.  We expect all group members to,
 
-1. Act kindly and professionally, and
-2. do good work.
+1. Act kindly and professionally; and,
+2. Do good work.
 
 This document explains what these two points mean.
 
@@ -64,6 +64,7 @@ There is increasing evidence that certain attributes of PhD research may challen
 - Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
 
 All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
+
 
 # Do Good Work
 
