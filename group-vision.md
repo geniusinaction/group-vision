@@ -5,14 +5,15 @@ We value the participation of every member of our community and want to ensure e
 
 Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
 
-## Cultivating a safe group culture
-Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form, and we ask all members of the community to conform to the following Code of Conduct:
-
-### Things to do:
+Our research group follows a simple model for interactions among the group members and with others:
 
 1. Be kind to others at all times, 
-2. Behave professionally, and
-3. Act with scientific integrity.
+2. behave professionally, and
+3. act with scientific integrity.
+
+## Be kind
+
+Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
 ### Examples of things not to do:
 
