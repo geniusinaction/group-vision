@@ -80,7 +80,7 @@ All group members are held to the highest standards of academic integrity.  Thes
 
 ### Open science
 
-All group work will be published in open access journals.  
+All research from this research group that is published will be published in open access journals.  There is no flexibility in this policy.  Preference is given to Diamond, then Gold, and then Green [Open Access](https://en.wikipedia.org/wiki/Open_access#Colour_naming_system).  Preference is also given to journals that are community-based rather than commercial.
 
 ### Authorship
 
@@ -90,16 +90,17 @@ The group authorship policy is that everybody who contribute to a project is lis
 - Where conflict arises, the PI will facilitate discussion to help resolve this. 
 - To help inform Editors, reviewers, and readers of our papers, we will include author contribution statements as part of all papers.
 
-### Code availability
+### Reproducibility
 
-We code a lot in this group.  All codes should be under version control.  Repositories may be private prior to publication but must be public afterwards (or sooner, but this is a preferrence).
+We code a lot in this group and all codes should be under version control.  Repositories may be private prior to publication but must be public afterwards (or sooner, but this is a preferrence).  Notebooks should be provided to facilitate reproducibility.
 
 ### Licensing
 
-Ideas are our currency and it is reasonable to expect compensation if somebody else monitizes those ideas.  We generally use GNU GPL v3.  If a potential user wants to use our code in their own proprietary work, then this is handled on 
+Ideas are our currency and it is reasonable to expect compensation if somebody else monitizes those ideas.  We generally use CC-BY-NC.  If a potential user wants to use our code in their own proprietary work, then this is handled on case-by-case basis.
 
+## Setting Goals
 
-## Productivity
+### Productivity
 A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam.  For postdocs the average should be two first-author papers per year.
 
 
