@@ -7,7 +7,7 @@ Please note that this is a documentation of our vision for group culture and goa
 
 Our research group follows a simple model for interactions among the group members and with others.  We expect all group members to,
 
-1. [Act kindly and professionally]({#kind}; and,
+1. [Act kindly and professionally](#Act-kindly-and-professionally); and,
 2. [Do good work](#Do-good-work).
 
 This document explains what these two points mean.
