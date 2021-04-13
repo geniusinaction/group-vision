@@ -10,7 +10,7 @@ Our research group follows a simple model for interactions among the group membe
 1. [Act kindly and professionally](#Act-kindly-and-professionally); and,
 2. [Do good work](#Do-good-work).
 
-This document explains what these two points mean.
+This document explains what these two points mean.  There is also an [Appendix on Group Admissions](#Appendix-on-Group-Admissions) and an [Acknowledgements](#Acknowledgements) section.
 
 ## Act kindly and professionally
 
@@ -131,7 +131,9 @@ Please give consideration to the timing of the email with respect to what the re
 ### Conferences
 Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU, EGU, SIAM, and APS meetings are the largest attendance.  Smaller meetings like the WAIS workshop or medium sized ones like SCEC or SSA are also useful.  Students in the group should expect to go to one big and one small conference each year.
 
-# Acknowledgements
+## Appendix on Group Admissions
+
+## Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
 
 > These Guidelines borrow heavily and are modified from the Basin Research Group Code of Conduct, assembled by Chris Jackson (basinsresearchgroup.com). 
