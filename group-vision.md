@@ -98,7 +98,9 @@ We code a lot in this group and all codes should be under version control.  Repo
 
 Ideas are our currency and it is reasonable to expect compensation if somebody else monitizes those ideas.  We generally use CC-BY-NC.  If a potential user wants to use our code in their own proprietary work, then this is handled on case-by-case basis.
 
-## Setting Goals
+## Setting and Reaching Our Goals
+
+Questions such as "how much should I work?" or "what is expected of a PhD student?" are virtually impossible to answer without a specific idea of one's goals.
 
 ### Productivity
 A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam.  For postdocs the average should be two first-author papers per year.
