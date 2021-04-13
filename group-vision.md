@@ -138,7 +138,7 @@ If you are having trouble meetings deadlines that we have previously agreed upon
 Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at the PI's house, but maybe elsewhere too), fun outdoorsy activities, and other outings.
 
 ### Individual Development Plans
-An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that he can follow up on.
+An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that can be built upon.
 
 
 ### Communication
