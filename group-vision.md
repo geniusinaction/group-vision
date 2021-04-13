@@ -34,7 +34,7 @@ Speaking with each other is as familiar as any group interaction can be.  Yet it
 ### Violations of policies
 Participants asked to stop any harassing behavior are expected to comply immediately.  The PI will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the group, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with University policies, will commence. To report an issue, please contact the PI; all communication will be treated as confidential. 
 
-Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of the Title IX office (https://www.washington.edu/titleix/).
+Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of [the Title IX office](https://www.washington.edu/titleix/).
 
 ### Commitment to Combat Racism and Discrimination
 
@@ -43,15 +43,17 @@ Our group does not exist in a vacuum, but is within and affected by the structur
 In addition to making group members feel safe and secure, diversity and inclusivity has numerous benefits to us all. Put simply, the greater the mix of people in our group, the greater the mix of skills, experiences, perspectives, and ideas we can collectively draw on. But the benefits of diversity and equality cannot be fully achieved without creating an inclusive environment.
 
 The goal of this research group is to be an inclusive and safe place in which to do the best science and promote the happiness and career development of its members.  However, cultivating such a group culture is not enough if it still exists within a system that is not equitable, diverse, and inclusive. As such, our group strives to promote anti-discriminatory and anti-racist values within our broader campus and scientific communities. We do so in our words, but also in our actions, by:
+
 - [Fighting bias in our group admissions practices](#Appendix-on-Group-Admissions)
 - We seek out new ways to communicate our scientific research to underrepresented groups.
 - We pay or award credit to group members equitably within each career stage.
 - We actively support the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for seminars be representative of the US population. 
-- We use gender- and race-neutral language in recommendation letters and trainee evaluations ([link]((https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)).
+- We use gender- and race-neutral language in recommendation letters and trainee evaluations ([link](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)).
 - Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Atlanta) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
-- Holding those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombud](https://www.washington.edu/ombud/)).
-- Incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. Discuss further ways in which we can add to the above actions in our group efforts.
-- Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards (specific goals are bolded in the above action items), and outlining steps to make changes in the coming year. 
+- We hold those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombud](https://www.washington.edu/ombud/)).
+- We incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. 
+- We discuss further ways in which we can add to the above actions in our group efforts.
+- Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards, and outlining steps to make changes in the coming year. 
 
 ### Mental health, or, being kind to oneself
 There is increasing evidence that certain attributes of PhD research may challenge your mental health. Specific factors driving this include:
