@@ -12,7 +12,7 @@ Our research group follows a simple model for interactions among the group membe
 
 This document explains what these two points mean.
 
-## [Be kind](#kind)
+## Act-kindly-and-professionally
 
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
