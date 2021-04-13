@@ -73,21 +73,36 @@ There are two guiding principles for doing good work in our group:
 1. All work must be carried out with the highest ethical standards.
 2. All work should be carried out towards achieving well-defined goals (even if these goals change and change often).
 
-I see my role as an advisor being to help the members of the group achieve their goals.  These will vary
+## Ethical standards for our work
 
-## Academic integrity
+### Academic integrity
 All group members are held to the highest standards of academic integrity.  These standards are well described by the university:  [link] (https://www.washington.edu/cssc/facultystaff/academic-misconduct/).
+
+### Open science
+
+All group work will be published in open access journals.  
+
+### Authorship
+
+The group authorship policy is that everybody who contribute to a project is listed as an author.  A contribution is something that, if one were to print out the paper for example, you could physically put your finger on.  A few additional points:
+- It is imperative to discuss authorship early and often so that there are no surprises.
+- The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. 
+- Where conflict arises, the PI will facilitate discussion to help resolve this. 
+- To help inform Editors, reviewers, and readers of our papers, we will include author contribution statements as part of all papers.
+
+### Code availability
+
+We code a lot in this group.  All codes should be under version control.  Repositories may be private prior to publication but must be public afterwards (or sooner, but this is a preferrence).
+
+### Licensing
+
+Ideas are our currency and it is reasonable to expect compensation if somebody else monitizes those ideas.  We generally use GNU GPL v3.  If a potential user wants to use our code in their own proprietary work, then this is handled on 
+
 
 ## Productivity
 A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam.  For postdocs the average should be two first-author papers per year.
 
-## Open science
 
-All group work will be published in open access journals.  
-
-Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
-
-All code written as a part of publicly-funded research and used to produce results or make plots in a published paper will be made publically available using GitHub or other public code repository. If you feel that there is a good reason for keeping your code proprietary, this should be discussed with the PI.
 
 ## Group Identity vs. Individual Contribution
 The purpose of having a named research group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
