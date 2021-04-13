@@ -8,14 +8,13 @@ Our research group follows a simple model for interactions among the group membe
 This document explains what these two points mean.  There is also an [Appendix on Group Admissions](#Appendix-on-Group-Admissions) and an [Acknowledgements](#Acknowledgements) section.  Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
 
 # Act kindly and professionally
-We value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
+We value the participation of every member and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
 
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
 
-
 ## Contribute to discussions in meetings with a constructive, positive approach
-Speaking with each other is as familiar as any group interaction can be.  Yet it is often a point of subtle friction that can annoy or even exclude.
+Speaking with each other is as familiar as any group interaction can be.  Yet it is often a point of subtle friction that can at least annoy or at worst exclude.
 
 - Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others. Talking over others is disruptive and leads to unproductive meetings, but also it makes the person who is being talked over feel like their ideas are invalid or not worth being considered. To facilitate discussion and ensure that everyone is heard:
 - Wait for others to pause, or finish their train of thought before you being speaking or gesticulating, etc.
