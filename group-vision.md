@@ -1,19 +1,18 @@
 # Group Vision, An Overview
 
-We value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
-
-Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
-
 Our research group follows a simple model for interactions among the group members and with others.  We expect all group members to,
 
 1. [Act kindly and professionally](#Act-kindly-and-professionally).
 2. [Do good work](#Do-good-work).
 
-This document explains what these two points mean.  There is also an [Appendix on Group Admissions](#Appendix-on-Group-Admissions) and an [Acknowledgements](#Acknowledgements) section.
+This document explains what these two points mean.  There is also an [Appendix on Group Admissions](#Appendix-on-Group-Admissions) and an [Acknowledgements](#Acknowledgements) section.  Please note that this is a documentation of our vision for group culture and goals, and is not a legal document, which supplements, but does not replace, School- and/or College-level policies for your level of employment or study.
 
 # Act kindly and professionally
+We value the participation of every member of our community and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally. Accordingly, all members of the group are expected to show respect and courtesy to others at all times. We create our culture and our culture is inclusive.
 
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
+
+
 
 ## Contribute to discussions in meetings with a constructive, positive approach
 Speaking with each other is as familiar as any group interaction can be.  Yet it is often a point of subtle friction that can annoy or even exclude.
