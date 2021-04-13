@@ -16,27 +16,30 @@ This document explains what these two points mean.
 
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
-### Examples of things not to do:
+### Contribute to discussions in meetings with a constructive, positive approach
+Speaking with each other is as familiar as any group interaction can be.  Yet it is often a point of subtle friction that can annoy or even exclude.
+
+- Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others. Talking over others is disruptive and leads to unproductive meetings, but also it makes the person who is being talked over feel like their ideas are invalid or not worth being considered. To facilitate discussion and ensure that everyone is heard:
+- Wait for others to pause, or finish their train of thought before you being speaking or gesticulating, etc.
+-Please be sure to pause long enough between thoughts or explicitly invite others to respond when speaking so that others feel welcome to contribute to the discussion
+
+
+### Examples of things not to do
+*A non-exhaustive list*
 
 - Harassment and sexist, racist, and/or exclusionary jokes are never appropriate.  Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 - Sexual language and imagery is not appropriate at any time.
 - Do not insult or put down other group members
 
 ### Violations of policies
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing behavior are expected to comply immediately.  The PI will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the group, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with University policies, will commence. To report an issue, please contact the PI; all communication will be treated as confidential. 
 
-Contribute to discussions in meetings with a constructive, positive approach
-Be mindful of talking over others when discussing in groups, and be willing to hear out the ideas of others. Talking over others is disruptive and leads to unproductive meetings, but also it makes the person who is being talked over feel like their ideas are invalid or not worth being considered. To facilitate discussion and ensure that everyone is heard:
-Wait for others to pause, or finish their train of thought before you being speaking or gesticulating, etc.
-Please be sure to pause long enough between thoughts or explicitly invite others to respond when speaking so that others feel welcome to contribute to the discussion
-
-In addition to making group members feel safe and secure, diversity and inclusivity has numerous benefits to us all. Put simply, the greater the mix of people in our group, the greater the mix of skills, experiences, perspectives, and ideas we can collectively draw on. But the benefits of diversity and equality cannot be fully achieved without creating an inclusive environment.
-
-The PI will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the group, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with University policies, will commence. To report an issue, please contact the PI; all communication will be treated as confidential. 
 
 Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of the Title IX office (https://www.washington.edu/titleix/).
 
 ### Commitment to Combat Racism and Discrimination
+
+In addition to making group members feel safe and secure, diversity and inclusivity has numerous benefits to us all. Put simply, the greater the mix of people in our group, the greater the mix of skills, experiences, perspectives, and ideas we can collectively draw on. But the benefits of diversity and equality cannot be fully achieved without creating an inclusive environment.
 
 Our group does not exist in a vacuum, but is within and affected by the structures, rules and customs of broader systems, including academia, our scientific community, and our society. The unfortunate reality is that these systems have been and continue to be discriminatory, racist and sexist institutions, which perpetuate harmful actions towards black, indigenous, and people of color, in addition to women and LGBTQ+ people. It is because of this discrimination that these groups have been, and continue to be underrepresented in the research community.
 
