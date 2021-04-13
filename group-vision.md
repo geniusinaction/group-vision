@@ -127,14 +127,7 @@ Please give consideration to the timing of the email with respect to what the re
 "The literature" is what academics refer to when they mean everything that has been written about some particular topic.  You should be familiar with recently published material relevant to your project. You should familiarize yourself with tools, such as Google Scholar, that help you navigate the literature.
 
 ### Conferences
-Conferences and workshops are by far the best way to meet other researchers (important for developing collaborations in the long run), disseminate your research in a timely fashion and learn about what others are doing. For US-based researchers in glaciology, there are a few conferences, some regular and others less so that are valuable venues for making connections and presenting your work.
-- AGU Fall Meeting - annual (mid-December) typically in SF - THE huge meeting for Earth scientists in the US, 20k+attendees, but always lots of good cryosphere content
-- EGU General Assembly - annual (April/May) typically in Vienna - smaller European version of AGU (still 10k+ though), good way to meet European cryo community, which is larger than American community 
-- West Antarctic Ice Sheet Workshop - annual (Sep/Oct) - small workshop (<100 attendees), mostly US participants, great way for researchers starting out to meet big names in field and program managers from funding agencies
-- International Glaciological Society Symposia - typically 2-3 per year - topics vary greatly, but always focused on ice topics, usually one symposium per year is more general (i.e. ice and climate change), usually anywhere from 50-400 attendees depending on topic
-- AGU Ocean Sciences - even years (early spring) - AGU meeting focused on ocean topics, typically some ice/ocean sessions, still big - 5k+ attendees
-- SIAM/APS Meetings - applied math and physics meetings, typically large, but a good venue to talk about more technical/mathematical aspects of your work to people outside of glaciology
-
+Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU, EGU, SIAM, and APS meetings are the largest attendance.  Smaller meetings like the WAIS workshop or medium sized ones like SCEC or SSA are also useful.  Students in the group should expect to go to one big and one small conference each year.
 
 # Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
