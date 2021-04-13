@@ -52,7 +52,7 @@ As outlined in the rest of this document, it is the goal of the Research Group i
 - Actively supporting the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for GT seminars (EAS school seminars and ad-hoc visitors to Ice-T) be representative of the US population. To pursue this goal we will also look outside of glaciology and outside the US for potential speakers.
 - Using gender- and race-neutral language in recommendation letters and trainee evaluations (https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)
 - Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Atlanta) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
-- Holding those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through Institute resources: https://provost.gatech.edu/reporting-units/conflict-resolution-ombuds/contact).
+- Holding those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombud](https://www.washington.edu/ombud/)).
 - Incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. Discuss further ways in which we can add to the above actions in our group efforts.
 - Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards (specific goals are bolded in the above action items), and outlining steps to make changes in the coming year. 
 
@@ -66,15 +66,24 @@ There is increasing evidence that certain attributes of PhD research may challen
 - So-called “negative results”; i.e. at some point in your research it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show
 - Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
 
-All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
+All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar [resources on campus](https://www.washington.edu/counseling/). Every effort will be made to help you access the right support networks.
 
 
 ## Do Good Work
 
+There are two guiding principles for doing good work in our group:  
+1. All work must be carried out with the highest ethical standards.
+2. All work should be carried out towards achieving well-defined goals (even if these goals change and change often).
+
+I see my role as an advisor being to help the members of the group achieve their goals.  These will vary
+
 ### Academic integrity
 All group members are held to the highest standards of academic integrity.  These standards are well described by the university:  [link] (https://www.washington.edu/cssc/facultystaff/academic-misconduct/).
 
-### Outputs and open science
+### Productivity
+A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam.  For postdocs the average should be two first-author papers per year.
+
+### Open science
 Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
 	
 Your active research product (code, documents, etc.) should be backup up regularly using an off-site, ‘cloud’-based storage system. All University staff have access to a nearly-unlimited dropbox allocation.
@@ -132,6 +141,11 @@ Please give consideration to the timing of the email with respect to what the re
 Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU, EGU, SIAM, and APS meetings are the largest attendance.  Smaller meetings like the WAIS workshop or medium sized ones like SCEC or SSA are also useful.  Students in the group should expect to go to one big and one small conference each year.
 
 ## Appendix on Group Admissions
+
+There are a number of excellent resources available regarding applying to graduate school in the Earth Sciences.  
+-[The Graduate School Application Station](https://geogradapp.com/)
+-[Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
+-[Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
 
 ## Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
