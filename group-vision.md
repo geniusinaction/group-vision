@@ -7,7 +7,7 @@ Please note that this is a documentation of our vision for group culture and goa
 
 Our research group follows a simple model for interactions among the group members and with others.  We expect all group members to,
 
-1. [Act kindly and professionally](#Act-kindly-and-professionally); and,
+1. [Act kindly and professionally](#Act-kindly-and-professionally).
 2. [Do good work](#Do-good-work).
 
 This document explains what these two points mean.  There is also an [Appendix on Group Admissions](#Appendix-on-Group-Admissions) and an [Acknowledgements](#Acknowledgements) section.
@@ -34,7 +34,6 @@ Speaking with each other is as familiar as any group interaction can be.  Yet it
 ### Violations of policies
 Participants asked to stop any harassing behavior are expected to comply immediately.  The PI will discuss these guidelines with group members who violate these rules, no matter how much they contribute to the group, or how specialised or needed their skill set. If inappropriate behaviour persists after this initial discussion, formal processes, in line with University policies, will commence. To report an issue, please contact the PI; all communication will be treated as confidential. 
 
-
 Please be advised that as a university employee, the PI is a mandated reporter, and must forward your complaints to the Title IX office if they indicate that sexual harassment or assault has taken place. If you do not feel comfortable reporting directly, please feel free to contact a member of the Title IX office (https://www.washington.edu/titleix/).
 
 ### Commitment to Combat Racism and Discrimination
@@ -44,9 +43,7 @@ In addition to making group members feel safe and secure, diversity and inclusiv
 Our group does not exist in a vacuum, but is within and affected by the structures, rules and customs of broader systems, including academia, our scientific community, and our society. The unfortunate reality is that these systems have been and continue to be discriminatory, racist and sexist institutions, which perpetuate harmful actions towards black, indigenous, and people of color, in addition to women and LGBTQ+ people. It is because of this discrimination that these groups have been, and continue to be underrepresented in the research community.
 
 As outlined in the rest of this document, it is the goal of the Research Group is to be an inclusive and safe place in which to do the best science and promote the happiness and career development of its members. However, cultivating such a group culture is not enough if it still exists within a system that is not equitable, diverse, and inclusive. As such, our group strives to promote anti-discriminatory and anti-racist values within our broader campus and scientific communities. We do so in our words, but also in our actions, by:
-- Actively recruiting group members (at all career stages) from historically underrepresented groups, and fostering a supportive community so that our group is a desirable and welcoming environment (see rest of guidelines). Our goal is for the group (including undergraduate and graduate students) to be representative of the US population averaged over time scales of 5-10 years (to mitigate small number biases), and to review our efforts and shortcomings in this regard each year in the fall prior to the PhD application cycle.
-- To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Atlanta region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
-- Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
+- [Fighting bias in our group admissions practices](#Appendix-on-Group-Admissions)
 - We commit to participating or leading outreach events in our community in K-12 schools and community organizations. This includes 3 outreach events per year (approx. one per semester), where at least two are directed towards communities underrepresented in glaciology, and at least one includes participation by more than half of group members.
 - Pay or award credit to group members equitably within each career stage. This includes advocating for better pay and employment policies.
 - Actively supporting the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for GT seminars (EAS school seminars and ad-hoc visitors to Ice-T) be representative of the US population. To pursue this goal we will also look outside of glaciology and outside the US for potential speakers.
@@ -84,11 +81,12 @@ All group members are held to the highest standards of academic integrity.  Thes
 A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam.  For postdocs the average should be two first-author papers per year.
 
 ### Open science
-Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
-	
-Your active research product (code, documents, etc.) should be backup up regularly using an off-site, ‘cloud’-based storage system. All University staff have access to a nearly-unlimited dropbox allocation.
 
-All code written as a part of publicly-funded research and used to produce results or make plots in a published paper will be made publically available using GitHub or other public code repository. If you feel that there is a good reason for keeping your code exclusive, this should be discussed with the PI.
+All group work will be published in open access journals.  
+
+Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
+
+All code written as a part of publicly-funded research and used to produce results or make plots in a published paper will be made publically available using GitHub or other public code repository. If you feel that there is a good reason for keeping your code proprietary, this should be discussed with the PI.
 
 ### Group Identity vs. Individual Contribution
 The purpose of having a named research group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
@@ -143,9 +141,16 @@ Conferences and workshops are by far the best way to meet other researchers. Thi
 ## Appendix on Group Admissions
 
 There are a number of excellent resources available regarding applying to graduate school in the Earth Sciences.  
+
 -[The Graduate School Application Station](https://geogradapp.com/)
 -[Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
 -[Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
+
+
+- Actively recruiting group members (at all career stages) from historically underrepresented groups, and fostering a supportive community so that our group is a desirable and welcoming environment (see rest of guidelines). Our goal is for the group (including undergraduate and graduate students) to be representative of the US population averaged over time scales of 5-10 years (to mitigate small number biases), and to review our efforts and shortcomings in this regard each year in the fall prior to the PhD application cycle.
+- To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Atlanta region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
+- Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
+
 
 ## Acknowledgements
 This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
