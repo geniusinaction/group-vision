@@ -81,8 +81,8 @@ All code written as a part of publicly-funded research and used to produce resul
 ### Group Identity vs. Individual Contribution
 The purpose of having a named research group is two-fold: (1) to support each other, (2) to promote our group to newcomers and potential newcomers. The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about “we” when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. (That being said, you should always acknowledge project funders when presenting or writing a paper.)
 
-### Working hours
-I recognise that many of you have personal responsibilities and obligations in addition to your PhD studies. I appreciate that, at times, it can be difficult to balance those demands, and that a classic ‘9-to-5’ day may not be optimal. Because of this, the exact hours you choose to work is up to you. Being on campus between 11 AM and 4 PM most days may, however, help facilitate collaborative working and, we hope, lead to a more fulfilling research experience. Where possible, meetings and events will not be arranged outside these hours to allow participation by all group members.
+### Work habits
+I recognize that many of you have personal responsibilities and obligations in addition to your PhD studies. I appreciate that, at times, it can be difficult to balance those demands, and that a classic ‘9-to-5’ day may not be optimal. Because of this, the exact hours you choose to work is up to you. Being on campus between 11 AM and 4 PM most days may, however, help facilitate collaborative working and, we hope, lead to a more fulfilling research experience. Where possible, meetings and events will not be arranged outside these hours to allow participation by all group members.
 
 ### Holidays
 You are expected to take (at least) two weeks of time off per year, beyond normal institute holidays (e.g. federal holidays, fall/spring/winter breaks). I strongly encourage you take this time so you can relax, visit family and friends, and generally unwind from the rigours of PhD study. Although not a formal requirement, it is helpful to inform the PI in advance when you plan to take holidays or if you will not be present at Ice-T or other group meetings. 
@@ -91,14 +91,14 @@ Work on weekends is sometimes OK and/or necessary (especially before deadlines),
 
 ### Meetings
 Group meetings: All group members are expected to attend the weekly group meeting if they are not otherwise engaged in other research-related activities (e.g. at conference, attending training or a lecture, etc). The group meeting is an excellent forum for updating colleagues on project progress, developing research skills, and widening our collective understanding. Group meetings provide a forum for:
-Research updates
-New and interesting papers
-Old and important papers
-Papers from other fields
-Practice conference talks
-Manuscript in prep figures/outlines
-Fellowship applications/proposals
-Essays/articles on being a good scientist, inclusion, creativity, science writing, etc.
+- Research updates
+- New and interesting papers
+- Old and important papers
+- Papers from other fields
+- Practice conference talks
+- Manuscript in prep figures/outlines
+- Fellowship applications/proposals
+- Essays/articles on being a good scientist, inclusion, creativity, science writing, etc.
 
 As part of your professional training, you will be expected to lead a group discussion on a topic of your choice at least once per term (though in practice you should present more frequently than this). The group meeting should be a forum for open discussion, not a venue for one-on-one discussions about very technical research details (that is what one-on-one meetings are for!). The PI will recommend tabling a discussion if it is derailing the group.
 
@@ -116,15 +116,14 @@ Please inform the PI of holidays or notable absences in advance. Permission for 
 Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at the PI's house, but maybe elsewhere too), hikes, and other outings.
 
 ### Individual Development Plans
-
 An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that he can follow up on.
 
 
 ### Communication
 Please give consideration to the timing of the email with respect to what the recipient needs to do; for example, try not to send an email at after 5pm for something that is required for a 10am meeting the next day. Different people work or respond to emails at different times of the day or weekend, and as stated earlier in this documents, those hours will not be prescribed. That being said, no group members are required nor should feel obliged to reply to email outside of their typical work hours. However, prompt replies to emails, within work hours, is helpful. 
 
-### Reading "the literature"
-"The literature" is what academics refer to when they mean everything that has been written about some particular topic.  You should be familiar with recently published material relevant to your project. You should familiarize yourself with tools, such as Google Scholar, that help you navigate the literature.
+### Reading the literature
+"The literature" is academic jargon that means "everything written about some topic".  You should be familiar with recently published material relevant to your project. You should familiarize yourself with tools, such as Google Scholar, that help you navigate the literature.
 
 ### Conferences
 Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU, EGU, SIAM, and APS meetings are the largest attendance.  Smaller meetings like the WAIS workshop or medium sized ones like SCEC or SSA are also useful.  Students in the group should expect to go to one big and one small conference each year.
