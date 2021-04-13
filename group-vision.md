@@ -72,7 +72,7 @@ All PhD students come across most of these issues at some level. I strongly enco
 ## Do Good Work
 
 ### Academic integrity
-All group members are held to the highest standards of academic integrity.  These standards are well described by the university:  (link)[https://www.washington.edu/cssc/facultystaff/academic-misconduct/].
+All group members are held to the highest standards of academic integrity.  These standards are well described by the university:  [link] (https://www.washington.edu/cssc/facultystaff/academic-misconduct/).
 
 ### Outputs and open science
 Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
