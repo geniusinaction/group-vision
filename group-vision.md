@@ -12,7 +12,7 @@ Our research group follows a simple model for interactions among the group membe
 
 This document explains what these two points mean.
 
-## Be kind {#kind}
+## [Be kind](#kind)
 
 Enjoyable, high-quality research can only be conducted when you feel safe, secure, and supported. All group member are thus dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and/or religion. We do not tolerate harassment by and/or of members of our group in any form.
 
@@ -69,7 +69,7 @@ There is increasing evidence that certain attributes of PhD research may challen
 All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar resources on campus: http://counseling.gatech.edu/. Every effort will be made to help you access the right support networks.
 
 
-# Do Good Work {#work}
+# [Do Good Work](#work)
 
 ## Outputs and open science
 Authorship on any manuscript or presentation will be openly discussed in group meetings and should, if possible, include everyone who has made a significant contribution to the work. A “significant contribution” can include but is not limited to, interpretations of primary data and development of ideas presented in the work. The order of authors on a manuscript or presentation should be dictated by the relative contribution made by each author; in the case these contributions are equal, authors should be listed alphabetically by surname. Where conflict arises, the PI will facilitate discussion to help resolve this. I encourage an open dialogue about this matter, ideally via authorship ‘check-ins’ that will likely occur several times over the lifetime of the study. To help inform Editors, reviewers, and readers of our papers, we will include an author contribution statement as part of a paper.
