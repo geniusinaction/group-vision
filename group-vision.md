@@ -98,7 +98,7 @@ We must adhere to any mandates imposed by those who fund our work.  Our research
 
 ### Licensing
 
-Ideas are our currency and it is reasonable to expect compensation if somebody else monitizes those ideas.  We generally use CC-BY-NC.  If a potential user wants to use our code in their own proprietary work, then this is handled on case-by-case basis.
+Licenses should be discussed with co-authors before codes are published.  We generally support the use of open, MIT-style licenses, although discussion on this topic is welcome.
 
 ### Group Identity vs. Individual Contribution
 The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about "we" when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. 
@@ -114,9 +114,12 @@ Questions such as "how much should I work?" or "what is expected of a PhD studen
 - Even for those pursuing an academic career, these numbers may vary widely, for example, it is difficult to compare a detailed project that results in a single long-format publication with two short projects that result in two short-format papers.  For these reasons, these numbers are just meant to illustrate typical pathways rather than any one person's course of study.
 
 ### Time management
-- Daily Schedule. I recognize that many of you have personal responsibilities and obligations in addition to your PhD studies. I appreciate that, at times, it can be difficult to balance those demands, and that a classic ‘9-to-5’ day may not be optimal.  Because of this, the exact hours you choose to work is up to you. Being on campus between 11 AM and 4 PM most days may, however, help facilitate collaborative working and, we hope, lead to a more fulfilling research experience. Where possible, meetings and events will not be arranged outside these hours to allow participation by all group members.
+- Science takes time.  As a starting point, graduate students and postdocs should expect to work about 40 hours per week.  If you can achieve your goals in less time, that's great.  If you're really excited about a project and want to work more, that's great too.
+- It's equally important to take time to cultivate a variety of sources of contentment in one's life. Academic burnout is a real problem. While working excessive hours may achieve short term success, it is less likely to be sustainable over one's entire career.
+- The exact hours you choose to work is up to you. 
+- Being on physically present on campus between 9 AM and 5 PM most days will facilitate collaborative working and, we hope, lead to a more fulfilling research experience. 
 - Holidays. You are expected to take (at least) two weeks of time off per year, beyond normal institute holidays (e.g. federal holidays, fall/spring/winter breaks). I strongly encourage you take this time so you can relax, visit family and friends, and generally unwind from the rigours of PhD study. Although not a formal requirement, it is helpful to inform the PI in advance when you plan to take holidays or if you will not be present at group meetings. 
-- Weekends. Work on weekends is sometimes OK and/or necessary (especially before deadlines), but will likely lead to a drag on your overall productivity if it is a regular occurence. If you feel that you are having difficulty maintaining a healthy work-life balance, please talk to the PI.
+- Weekends. Work on weekends is sometimes OK and/or necessary, but will likely lead to a drag on your overall productivity if it is a regular occurence. If you feel that you are having difficulty maintaining a healthy work-life balance, please talk to the PI.
 
 If you struggle with establishing a sustainable work life balance, please discuss this with the PI at an early stage.
 
