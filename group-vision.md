@@ -90,7 +90,7 @@ The group authorship policy is that everybody who contribute to a project is lis
 
 ### Reproducibility
 
-We code a lot in this group and all codes should be under version control.  Repositories may be private prior to publication but must be public afterwards (or sooner, but this is a preferrence).  Notebooks should be provided to facilitate reproducibility.
+We code a lot in this group and all codes should be under version control.  Repositories may be private prior to publication but must be public afterwards (or sooner, but this is a preference).  Notebooks should be provided to facilitate reproducibility.
 
 ### Responsibility to funding agencies
 
@@ -172,7 +172,7 @@ We will actively take steps to fight bias during the recruitment process:
 
 
 # Acknowledgements
-This document was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
+This document was forked from Brad Lipovsky's GitHub repository [link](https://github.com/bradlipovsky/group-vision).  Brad's version was copied from a Google Document linked from Alex Robel's webiste [link](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit).  This document originally provided the following copyright notice which has not been modified.  The CC-BY 4.0 license requires that changes to the original document (in this case, Alex's) be noted.  The interested reader will find these changes documented through the git repository's version control system.
 
 > These Guidelines borrow heavily and are modified from the Basin Research Group Code of Conduct, assembled by Chris Jackson (basinsresearchgroup.com). 
 > They have also been edited and added to by Alex Robel, Samantha Buzzard, Paige Copenhaver, Ziad Rashed, and Hudson Moss.
