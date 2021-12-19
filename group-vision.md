@@ -155,9 +155,9 @@ Conferences and workshops are by far the best way to meet other researchers. Thi
 
 There are a number of excellent resources available regarding applying to graduate school in the Earth Sciences.  
 
--[The Graduate School Application Station](https://geogradapp.com/)
--[Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
--[Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
+- [The Graduate School Application Station](https://geogradapp.com/)
+- [Tips and Tricks for Applying to Graduate School in the Geosciences](https://www.iris.edu/hq/webinar/2016/10/tips_tricks_for_applying_to_graduate_school_in_the_geosciences), Jackie Caplan-Auerbach, Western Washington University 
+- [Unwritten rules about applying to graduate school](http://www.hurteaulab.org/blog/unwritten-rules-about-applying-to-graduate-school), Matthew D. Hurteau, University of New Mexico
 
 We will actively take steps to fight bias during the recruitment process:
 
