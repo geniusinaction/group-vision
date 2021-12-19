@@ -47,7 +47,7 @@ The goal of this research group is to be an inclusive and safe place in which to
 - We actively support the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for seminars be representative of the US population. 
 - We use gender- and race-neutral language in recommendation letters and trainee evaluations ([link](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)).
 - Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Atlanta) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
-- We hold those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombud](https://www.washington.edu/ombud/)).
+- We hold those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombuds Office](https://ombuds.ucr.edu/)).
 - We incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. 
 - We discuss further ways in which we can add to the above actions in our group efforts.
 - Remaining accountable to ourselves by reviewing our efforts in these directions each year, naming ways in which we have failed to live up to our own standards, and outlining steps to make changes in the coming year. 
@@ -62,7 +62,7 @@ There is increasing evidence that certain attributes of PhD research may challen
 - So-called “negative results”; i.e. at some point in your research it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show
 - Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
 
-All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar [resources on campus](https://www.washington.edu/counseling/). Every effort will be made to help you access the right support networks.
+All PhD students come across most of these issues at some level. I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. I assure you that you have the time and resources needed for a highly successful PhD. If there is anything that is placing undue stress, or preventing you from performing at your potential, please do not hesitate to let me or any of the postgraduate tutors in the department know how we can help. You should also be familiar [resources on campus](https://counseling.ucr.edu/). Every effort will be made to help you access the right support networks.
 
 
 # Do Good Work
@@ -74,7 +74,7 @@ There are two guiding principles for doing good work in our group:
 ## Ethical standards for our work
 
 ### Academic integrity
-All group members are held to the highest standards of academic integrity.  These standards are well described by the university:  [link] (https://www.washington.edu/cssc/facultystaff/academic-misconduct/).
+All group members are held to the highest standards of academic integrity.  These standards are well described by the university  [for faculty and staff] (https://www.ucop.edu/ethics-compliance-audit-services/compliance/standards-of-ethical-conduct.html) and [for students] (https://conduct.ucr.edu/policies/academic-integrity-policies-and-procedures).
 
 ### Open science
 
@@ -114,10 +114,10 @@ Questions such as "how much should I work?" or "what is expected of a PhD studen
 
 ### Time management
 - Science takes time.  As a starting point, graduate students and postdocs should expect to work about 40 hours per week.  If you can achieve your goals in less time, that's great.  If you're really excited about a project and want to work more, that's great too.
-- It's equally important to take time to cultivate a variety of sources of contentment in one's life. Academic burnout is a real problem. While working excessive hours may achieve short term success, it is less likely to be sustainable over one's entire career.
+- It is equally important to take time to cultivate a variety of sources of contentment in one's life. Academic burnout is a real problem. While working excessive hours may achieve short term success, it is less likely to be sustainable over one's entire career.
 - The exact hours you choose to work is up to you. 
 - Being on physically present on campus between 9 AM and 5 PM most days will facilitate collaborative working and, we hope, lead to a more fulfilling research experience. 
-- Holidays. You are expected to take (at least) two weeks of time off per year, beyond normal institute holidays (e.g. federal holidays, fall/spring/winter breaks). I strongly encourage you take this time so you can relax, visit family and friends, and generally unwind from the rigours of PhD study. Although not a formal requirement, it is helpful to inform the PI in advance when you plan to take holidays or if you will not be present at group meetings. 
+- Holidays. You are expected to take (at least) two weeks of time off per year, beyond normal institute holidays (e.g. federal holidays, fall/spring/winter breaks). I strongly encourage you take this time so you can relax, visit family and friends, and generally unwind from the rigours of graduate study. Although not a formal requirement, it is helpful to inform the PI in advance when you plan to take holidays or if you will not be present at group meetings. 
 - Weekends. Work on weekends is sometimes OK and/or necessary, but will likely lead to a drag on your overall productivity if it is a regular occurence. If you feel that you are having difficulty maintaining a healthy work-life balance, please talk to the PI.
 
 If you struggle with establishing a sustainable work life balance, please discuss this with the PI at an early stage.
