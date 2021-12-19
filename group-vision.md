@@ -46,7 +46,7 @@ The goal of this research group is to be an inclusive and safe place in which to
 - We pay or award credit to group members equitably within each career stage.
 - We actively support the efforts of underrepresented scholars outside of the group by seeking a diverse and balanced pool of seminar speakers, conference presenters and co-conveners, research collaborators, and award nominees. Our goal is to have speakers nominated for seminars be representative of the US population. 
 - We use gender- and race-neutral language in recommendation letters and trainee evaluations ([link](https://csw.arizona.edu/sites/default/files/avoiding_gender_bias_in_letter_of_reference_writing.pdf)).
-- Recognizing that areas of potential research interest in the Arctic and high North (and where we live in Atlanta) are colonized Indigenous land, and using original Indigenous place names (e.g. for Greenlandic glaciers: http://dx.doi.org/10.6084/m9.figshare.1449148) and land acknowledgements in published or presented work.
+- Recognizing that areas of potential research interest in California and elsewhere are colonized Indigenous land, and using original Indigenous place names and land acknowledgements in published or presented work.
 - We hold those in power (including the PI and those in our own institution) and each other accountable by calling out racist, sexist, or otherwise hurtful language and actions. We support each other in this accountability. Conflicts within our own group should be adjudicated in private and with the PI's assistance (or if preferred, through the [University Ombuds Office](https://ombuds.ucr.edu/)).
 - We incorporate discussions of anti-racism and anti-discrimination efforts in the geosciences into our group discussion at least once a semester. 
 - We discuss further ways in which we can add to the above actions in our group efforts.
@@ -108,12 +108,12 @@ Questions such as "how much should I work?" or "what is expected of a PhD studen
 
 ### Publications
 - A good rule of thumb is that grad students should write one paper first-author per year after their qualifying exam (so a typical 5-yr PhD would result in three peer-reviewed, first-author papers).  
-- For postdocs the average should be two first-author papers per year.  
-- If you definitely are not pursuing an academic career, these numbers are probably too high and other things are probably more important (i.e., code development, outreach, non technical writing, etc).  
+- For postdocs the goal should be two first-author papers per year.  
+- If you definitely are not pursuing an academic career, these numbers are probably too high and other things are probably more important (i.e., code development, outreach, non-technical writing, etc).  
 - Even for those pursuing an academic career, these numbers may vary widely, for example, it is difficult to compare a detailed project that results in a single long-format publication with two short projects that result in two short-format papers.  For these reasons, these numbers are just meant to illustrate typical pathways rather than any one person's course of study.
 
 ### Time management
-- Science takes time.  As a starting point, graduate students and postdocs should expect to work about 40 hours per week.  If you can achieve your goals in less time, that's great.  If you're really excited about a project and want to work more, that's great too.
+- Science takes time.  As a starting point, graduate students and postdocs should expect to work about 40 hours per week.  If you can achieve your goals in less time, that's great. If you're really excited about a project and want to work more, that's great too.
 - It is equally important to take time to cultivate a variety of sources of contentment in one's life. Academic burnout is a real problem. While working excessive hours may achieve short term success, it is less likely to be sustainable over one's entire career.
 - The exact hours you choose to work is up to you. 
 - Being on physically present on campus between 9 AM and 5 PM most days will facilitate collaborative working and, we hope, lead to a more fulfilling research experience. 
@@ -132,10 +132,9 @@ Individual meetings.  These will occur as personal situations require. These wil
 3. issues arising; and 
 4. a forward plan until the next meeting. 
 
-Such a structure offers an important way to self-monitor your progress, as well as keeping your supervisor informed of both positive and negative developments.  The purpose of these meetings is not for you to only report on what went right. Often the most pressing issue is a roadblock in the research or a failure. This is not a bad thing! The PI is here to help you get through those roadblocks or find an alternate route to achieve your ultimate goal. Ideally, feedback should be a roughly proportional mix of recognizing successes and analyzing failures.
+Such a structure offers an important way to self-monitor your progress, as well as keeping your advisor informed of both positive and negative developments.  The purpose of these meetings is not for you to only report on what went right. Often the most pressing issue is a roadblock in the research or a failure. This is not a bad thing! The PI is here to help you get through those roadblocks or find an alternate route to achieve your ultimate goal. Ideally, feedback should be a roughly proportional mix of recognizing successes and analyzing failures.
 
-If you are having trouble meetings deadlines that we have previously agreed upon, please do not work an unhealthy amount to attempt to meet those deadlines. Please talk to the PI about why you are having trouble meeting the deadline, and we will discuss how you can potentially work more efficiently or set more reasonable deadlines.
-
+If you are having trouble meeting deadlines that we have previously agreed upon, please do not work an unhealthy amount to attempt to meet those deadlines. Please talk to the PI about why you are having trouble meeting the deadline, and we will discuss how you can potentially work more efficiently or set more reasonable deadlines.
 
 ### Other Group Activities
 Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research (e.g. group lunches and dinners, outdoor activities).
@@ -144,7 +143,7 @@ Part of being a supportive group is getting to know each other as people in addi
 An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that can be built upon.
 
 ### Communication
-Please give consideration to the timing of the email with respect to what the recipient needs to do; for example, try not to send an email at after 5pm for something that is required for a 10am meeting the next day. Different people work or respond to emails at different times of the day or weekend, and as stated earlier in this documents, those hours will not be prescribed. That being said, no group members are required nor should feel obliged to reply to email outside of their typical work hours. However, prompt replies to emails, within work hours, are helpful. 
+Please give consideration to the timing of the email with respect to what the recipient needs to do; for example, try not to send an email at after 5 pm for something that is required for a 10 am meeting the next day. Different people work or respond to emails at different times of the day or weekend, and as stated earlier in this documents, those hours will not be prescribed. That being said, no group members are required nor should feel obliged to reply to email outside of their typical work hours. However, prompt replies to emails, within work hours, are helpful. 
 
 ### Reading the literature
 "The literature" is academic jargon that means "everything written about some topic".  You should be familiar with recently published material relevant to your project. You should familiarize yourself with tools, such as Google Scholar, that help you navigate the literature.
