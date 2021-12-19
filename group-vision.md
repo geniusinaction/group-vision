@@ -103,7 +103,6 @@ Licenses should be discussed with co-authors before codes are published.  We gen
 ### Group Identity vs. Individual Contribution
 The purpose of the group is not to “brand” the ideas as group ideas, or the PI's ideas. Your project is yours to make your own. You should not feel as though you are presenting the PI's ideas or the group's projects. For your career and for the development of the science, it is important for you to feel ownership of the project that you are working on. It is good to talk about "we" when it is us working together on developing the project, but you should take credit for ideas that you come up with in the course of your research. 
 
-
 ## Setting and Reaching Goals
 Questions such as "how much should I work?" or "what is expected of a PhD student?" are virtually impossible to answer without a specific idea of one's goals.  For that reason, all of the following points will vary quite a bit between group members.  Some basic points:
 
@@ -126,9 +125,7 @@ If you struggle with establishing a sustainable work life balance, please discus
 ### Meetings
 Group meetings. All group members are expected to attend the weekly group meeting if they are not otherwise engaged in other research-related activities (e.g. at conference, attending training or a lecture, etc). The group meeting is an excellent forum for updating colleagues on project progress, developing research skills, and widening our collective understanding. Group meetings provide a forum for research updates, New and interesting papers,  Old and important papers, Papers from other fields, Practice conference talks, Manuscript in prep figures/outlines, Fellowship applications/proposals, Essays/articles on being a good scientist, inclusion, creativity, science writing, etc.
 
-As part of your professional training, you will be expected to lead a group discussion on a topic of your choice at least once per term (though in practice you should present more frequently than this). The group meeting should be a forum for open discussion, not a venue for one-on-one discussions about very technical research details (that is what one-on-one meetings are for!). The PI will recommend tabling a discussion if it is derailing the group.
-
- Individual meetings.  These will occur as personal situations require. These will give you an opportunity to discuss your progress and any administrative issues that you need addressed. You are encouraged to come fully prepared for individual meetings with questions or issues that you would like help with, or ideas for further work; in this way, discussions can be focused such that all concerns are addressed. Ideally, in a one-on-one meeting, we should discuss: 
+Individual meetings.  These will occur as personal situations require. These will give you an opportunity to discuss your progress and any administrative issues that you need addressed. You are encouraged to come fully prepared for individual meetings with questions or issues that you would like help with, or ideas for further work; in this way, discussions can be focused such that all concerns are addressed. Ideally, in a one-on-one meeting, we should discuss: 
  
 1. What were your plans from last meeting;
 2. work undertaken; 
@@ -141,20 +138,19 @@ If you are having trouble meetings deadlines that we have previously agreed upon
 
 
 ### Other Group Activities
-Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research. These include: weekly lunches, quarterly dinners (at the PI's house, but maybe elsewhere too), fun outdoorsy activities, and other outings.
+Part of being a supportive group is getting to know each other as people in addition to colleagues. To facilitate this, the group will strive to have regular activities that don’t necessarily revolve around research (e.g. group lunches and dinners, outdoor activities).
 
 ### Individual Development Plans
 An individual development plan is a worksheet that identifies your current strengths, and those which you would like to develop over the next semester or few years. Group members will fill one out early in working with the PI and then periodically revise it on an ad-hoc basis. The document is simply a way to pause, be thoughtful about your goals, and communicate those goals to the PI in a way that can be built upon.
 
-
 ### Communication
-Please give consideration to the timing of the email with respect to what the recipient needs to do; for example, try not to send an email at after 5pm for something that is required for a 10am meeting the next day. Different people work or respond to emails at different times of the day or weekend, and as stated earlier in this documents, those hours will not be prescribed. That being said, no group members are required nor should feel obliged to reply to email outside of their typical work hours. However, prompt replies to emails, within work hours, is helpful. 
+Please give consideration to the timing of the email with respect to what the recipient needs to do; for example, try not to send an email at after 5pm for something that is required for a 10am meeting the next day. Different people work or respond to emails at different times of the day or weekend, and as stated earlier in this documents, those hours will not be prescribed. That being said, no group members are required nor should feel obliged to reply to email outside of their typical work hours. However, prompt replies to emails, within work hours, are helpful. 
 
 ### Reading the literature
 "The literature" is academic jargon that means "everything written about some topic".  You should be familiar with recently published material relevant to your project. You should familiarize yourself with tools, such as Google Scholar, that help you navigate the literature.
 
 ### Conferences
-Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU, EGU, SIAM, and APS meetings are the largest attendance.  Smaller meetings like the WAIS workshop or medium sized ones like SCEC or SSA are also useful.  Students in the group should expect to go to one big and one small conference each year.
+Conferences and workshops are by far the best way to meet other researchers. This is important for developing collaborations, disseminating your research in a timely fashion, and learning about what others are doing.   Given the diverse nature of our group's work, there are many conferences that might be worth your time.  The AGU and EGU meetings are the largest attendance.  Smaller meetings like SCEC, SSA, FRINGE, SAGE-GAGE or NISAR Science Workshops are also useful.  Students in the group should expect to go to one big and one small conference each year.
 
 # Appendix on Group Admissions
 
@@ -167,8 +163,8 @@ There are a number of excellent resources available regarding applying to gradua
 We will actively take steps to fight bias during the recruitment process:
 
 - Actively recruiting group members (at all career stages) from historically underrepresented groups, and fostering a supportive community so that our group is a desirable and welcoming environment (see rest of guidelines). Our goal is for the group (including undergraduate and graduate students) to be representative of the US population averaged over time scales of 5-10 years (to mitigate small number biases), and to review our efforts and shortcomings in this regard each year in the fall prior to the PhD application cycle.
-- To facilitate recruitment, we maintain active efforts to work with the many world-class minority-serving institutions in the Atlanta region, and the Southeast more broadly. We begin these recruitment efforts through an annual commitment to recruit and mentor at least one BIPOC student through the EAS REU program, and when possible, through interested GT undergraduate students.
-- Pursue strategies to combat the doubly-unrepresentative nature of mathematical, computational and dynamical glaciology, including maintaining a diverse range of entry points for potential projects and providing mentoring (ourselves or through institute resources) to group members in approaches and techniques that we consider integral to our research.
+- To facilitate recruitment, we maintain active efforts to work with organizations such as SCEC to provide undergraduate research internships, and to include funding of additional research experiences for undergraduates in our grant proposals. We will also participate in departmental efforts to increase graduate student diversity in UC systemwide initiatives, such as the UC-HCBU and UC-HSI programs.   
+- Pursuing strategies to broaden the range of entry points for potential projects and providing mentoring (either by ourselves or through university or community resources) to group members in approaches and techniques that we consider integral to our research. For instance, we are committed to participating in UNAVCO's professional training short courses, and developing and sharing our materials.
 
 
 # Acknowledgements
